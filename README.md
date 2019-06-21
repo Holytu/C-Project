@@ -4,3 +4,7 @@ Tic-Tac-Toe :
 
 CppTricksForCompetitiveProgramming :
   裡面實作一些可以更加節省記憶體資源，或者不需另加變數的方法。卻能達到相同目的。
+
+TemplatePratice :
+  Use template to implement one function, and one class.
+  
